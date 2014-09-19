@@ -1,0 +1,14 @@
+﻿Build started 9/16/2014 10:00:35 AM.
+     1>Project "C:\Users\gvis\Documents\Kinect for Windows 2.0 SDK 1408\Ingenuity - D2D\CoordinateMappingBasics-D2D.vcxproj" on node 2 (Build target(s)).
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\CoordinateMappingBasics.res" CoordinateMappingBasics.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gvis\Documents\Kinect for Windows 2.0 SDK 1408\Ingenuity - D2D\Debug\CoordinateMappingBasics-D2D.exe" /INCREMENTAL /NOLOGO kinect20.lib windowscodecs.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\gvis\Documents\Kinect for Windows 2.0 SDK 1408\Ingenuity - D2D\Debug\CoordinateMappingBasics-D2D.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gvis\Documents\Kinect for Windows 2.0 SDK 1408\Ingenuity - D2D\Debug\CoordinateMappingBasics-D2D.lib" /MACHINE:X86 Debug\CoordinateMappingBasics.res
+         Debug\CoordinateMappingBasics.obj
+         Debug\ImageRenderer.obj
+         CoordinateMappingBasics-D2D.vcxproj -> C:\Users\gvis\Documents\Kinect for Windows 2.0 SDK 1408\Ingenuity - D2D\Debug\CoordinateMappingBasics-D2D.exe
+     1>Done Building Project "C:\Users\gvis\Documents\Kinect for Windows 2.0 SDK 1408\Ingenuity - D2D\CoordinateMappingBasics-D2D.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.71
